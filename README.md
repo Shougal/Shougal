@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hi there 👋 I'm Shoug
 
-<!--
-**Shougal/Shougal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ University of Virginia | 💻 Software Engineer | 🧠 Architecture & Systems Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building **real products** with **clean architecture**, solving engineering challenges, and writing code that scales. Whether it's mobile, backend, or full-stack—I love crafting software that *just works*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Projects I’m Proud Of
+
+- 💅 [**Forma**](https://github.com/Shougal/formaStartup) *(Full Stack – React + Django)*  
+  A student-to-student marketplace that helps UVA students offer & book beauty-related services.  
+  Handles secure booking, availability logic, email notifications, and user authentication via AWS.  
+  Focused on delivering a smooth experience for both providers and customers within the UVA community.
+
+- 🎲 [**Board Game Lending App**](https://github.com/Shougal/boardGameLending) *(Full Stack – Django + PostgreSQL)*  
+  A system for librarians and patrons to manage board game lending and returns across pickup locations.  
+  Includes Google OAuth for authentication and clean separation between librarian/admin workflows.  
+  Built with scalability and simplicity in mind to support a wide range of game collections.
+
+- 📱 [**React Native Foundations**](https://github.com/Shougal/rn-foundations-by-shoug) *(Mobile App: iOS & Android)*  
+  A mobile learning app built using React Native with animated screens, prop drilling lessons,  
+  UI design principles, and reusable patterns. Built like a personal UI library where every screen  
+  is a self-contained component with clear purpose and customization in mind.
+
+---
+
+### 🔧 Currently Working On
+
+- 🤖[**AI Resume Evaluator**](https://github.com/Shougal/resume-ai-evaluator) – An **LLM-powered** resume review platform that provides actionable feedback,  
+  essay-style scoring, and ATS optimization tips to help candidates land more interviews.
+
+- 💳 **Forma Enhancements** – Adding secure payment (e.g. Square), integrating EWS-based notifications,  
+  and refining full-stack architecture for better performance and maintainability.
+
+- 🧱 **Clean Architecture + LeetCode** – Practicing clean backend layering while sharpening data structures  
+  and algorithms skills through real-world problem-solving.
+
+---
+
+### 💡 What I Care About
+
+- 🧠 Backend Engineering – APIs, databases, system architecture  
+- 📐 Scalable Systems – Designing for real-world usage & growth  
+- 🧪 Clean Code – Testing, abstractions, and code that's fun to read  
+- 📲 Mobile UI/UX – Native performance and delightful interfaces  
+- 🧬 AI x Product – Building tools that are useful, intelligent, and empowering  
+
+---
+
+### 🧰 My Toolkit
+
+```ts
+Languages:    Python, TypeScript, JavaScript, Java, SQL  
+Frameworks:   React, React Native, Django, Spring Boot (learning)  
+Databases:    PostgreSQL, SQLite  
+Tools:        Git, GitHub, Heroku, Vercel, AWS S3, Boto3, Figma  
