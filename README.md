@@ -34,9 +34,6 @@ I'm passionate about building **real products** with **clean architecture**, sol
 
 ### 🔧 Currently Working On
 
-- 🤖[**AI Resume Evaluator**](https://github.com/Shougal/resume-ai-evaluator) – An **LLM-powered** resume review platform that provides actionable feedback,  
-  essay-style scoring, and ATS optimization tips to help candidates land more interviews.
-
 - 💳 **Forma Enhancements** – Adding secure payment (e.g. Square), integrating EWS-based notifications,  
   and refining full-stack architecture for better performance and maintainability.
 
