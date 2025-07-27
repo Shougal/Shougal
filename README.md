@@ -8,7 +8,7 @@ I'm passionate about building **real products** with **clean architecture**, sol
 
 ### 🏆 Projects I’m Proud Of
 
--- 🤖 [**AI Resume Evaluator**](https://github.com/Shougal/resume-ai-evaluator) *(LLM-powered – Node.js + React + Groq)*  
+- 🤖 [**AI Resume Evaluator**](https://github.com/Shougal/resume-ai-evaluator) *(LLM-powered – Node.js + React + Groq)*  
   A resume evaluation platform tailored for software engineers, CS students, and tech professionals.  
   Upload your resume (PDF, DOCX, or TXT) and get instant, LLM-powered feedback with essay-style scoring,  
   ATS optimization tips, and red flag detection. Powered by Groq’s ultra-fast API and deployed via Heroku & Vercel.  
